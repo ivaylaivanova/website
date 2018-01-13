@@ -10,31 +10,35 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Molecular biology",
+    "Stem cell and Developmental biology",
+    "Post-transcription regulation",
+    "RNA modifications"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Postdoc in Aging of Stem Cells"
+  institution = "The University of Edinbrugh"
+  year = 2018
+
+[[education.courses]]
+  course = "PhD in Post-transcriptional Regulation in Mammalian Germ Cells"
+  institution = "University of Dundee"
+  year = 2017
+
+[[education.courses]]
+  course = "MSc in Biomedicine"
+  institution = "Karolinska Institutet"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Molecular Biology"
+  institution = "Sofia University St. Kliment Ohridski"
+  year = 2010
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Ivayla Ivanova is doing a bridging Postdoc in the research group of Donal O'Carroll at The MRC Centre for Regenerative Medicine. Her research interests include post-transcriptional regulation of RNA, RNA modifications, stem cell and developmental biology. She is currently investigating the fate of the stem cells in the testis during aging. 
